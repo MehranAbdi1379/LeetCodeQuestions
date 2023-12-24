@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeQuestions", "LeetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Changes To Make Alternating Binary String", "Minimum Changes To Make Alternating Binary String\Minimum Changes To Make Alternating Binary String.csproj", "{585A8555-F96F-4D67-AE5E-98409A43E2A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sorted Array", "Merge Sorted Array\Merge Sorted Array.csproj", "{44B63BD7-64EC-4EE6-B851-3F9AD47EEC57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{585A8555-F96F-4D67-AE5E-98409A43E2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{585A8555-F96F-4D67-AE5E-98409A43E2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{585A8555-F96F-4D67-AE5E-98409A43E2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B63BD7-64EC-4EE6-B851-3F9AD47EEC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B63BD7-64EC-4EE6-B851-3F9AD47EEC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B63BD7-64EC-4EE6-B851-3F9AD47EEC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B63BD7-64EC-4EE6-B851-3F9AD47EEC57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
